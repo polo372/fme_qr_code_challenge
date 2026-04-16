@@ -23,13 +23,14 @@ body{
 .picture{
     height: 288px;
     width: 100%;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 .text{
-    margin: 1em;
+    margin: 1.5em;
 
 }
 h1{
+    color: #1F314F;
     text-align: center;
     font-family: outfit;
     font-weight: bold;
@@ -38,6 +39,7 @@ h1{
     line-height: 120%;
 }
 .text p{
+    color: #68778D;
     padding: 0 10px;
     text-align: center;
     font-family: outfit;
